@@ -15,3 +15,4 @@ UE version 5.5
   Github默认上传文件限制100MB
   进一步了解了git指令
 
+#本行是在删除git-core目录后添加的以测试git是否还能正常使用
